@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navya Sri</h1>
-<h3 align="center">B.Tech CSE (AI & ML) Student | Passionate about AI, AR/VR & Full Stack Development</h3>
+<h3 align="center">B.Tech CSE (AI & ML) Student | Passionate about AI,ML , AR/VR & Full Stack Development</h3>
 
 ---
 <table>
