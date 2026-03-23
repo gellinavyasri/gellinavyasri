@@ -32,9 +32,6 @@
 
 ---
 
-
----
-
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
